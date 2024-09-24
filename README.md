@@ -26,6 +26,7 @@ Create a database named library and the following TABLES in the database:
 # To do :
 
 1. Retrieve the book title, category, and rental price of all available books. 
+
 ![1](https://github.com/user-attachments/assets/fb0bf462-a3e7-47a5-a5e3-b3ea13c84cc4)
 
  2. List the employee names and their respective salaries in descending order of salary. 
